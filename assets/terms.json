@@ -1,0 +1,7 @@
+
+
+  {
+    "confirmed": "Looks good!",
+    "text": "mandatory field '%s' is empty",
+    "email": "Email doesn't look valid"
+  }
