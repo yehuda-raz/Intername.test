@@ -34,6 +34,7 @@ File name: test_intername.sql
 ### 2. Create 3 Classes
 
 File name:
+
 A. DbConnection class - lib/class.DbConnection.php
 
 B. User class - lib/class.user.php
