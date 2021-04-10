@@ -35,7 +35,9 @@ File name: test_intername.sql
 
 File name:
 A. DbConnection class - lib/class.DbConnection.php
+
 B. User class - lib/class.user.php
+
 C. Post class - lib/class.post.php
 
 ### 3. Fetch users and posts via curl and save them in your database
